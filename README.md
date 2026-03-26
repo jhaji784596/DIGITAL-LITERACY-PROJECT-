@@ -53,6 +53,7 @@ Learned collaboration using Google Workspace
 Email to professor requesting extension
 Email for internship inquiry
 Social media do's and don'ts checklist
+
 *** Task 5 – Cybercrime Awareness
 
 Created case study on:
