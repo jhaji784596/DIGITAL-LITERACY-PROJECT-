@@ -1,1 +1,86 @@
-Digital Literacy Portfolio: Student Digital AmbassadorName: [Your Name]Registration No: [Your Reg No.]Branch: B.Tech Computer Science and EngineeringSpecialization: Cybersecurity and Digital Forensics (Class of 2029)Course Code: CSE0001 - Digital Literacy Project OverviewThis repository serves as a comprehensive Digital Literacy Portfolio developed as part of my role as a Student Digital Ambassador. The project demonstrates proficiency in digital tools, professional online presence, collaborative platforms, and cybersecurity awareness. As a student specializing in Cybersecurity and Digital Forensics, this portfolio reflects my commitment to building a secure and professional digital footprint while guiding my peers in navigating the digital world safely and responsibly.Module SummariesModule 1: Digital Awareness & LiteracyDeveloped a visual infographic using Canva that defines Digital Literacy and highlights key areas such as safe internet practices and professional online presence.Location: task-1-presentation/ Module 2: Professional Digital PresenceEstablished a foundational professional presence by setting up and optimizing profiles on LinkedIn and GitHub. This includes a custom Profile README and professional education details reflecting my current degree at VIT Bhopal.Location: task-2-portfolio/ Module 3: Coding & Collaboration PlatformsPracticed coding on HackerRank and developed a Digital Literacy Awareness Quiz using Google Forms. This module emphasizes the importance of data collection and peer education in digital literacy.Link to Quiz: [Insert your Google Form link here] Location: task-3-platforms/ Module 4: Digital Communication & EtiquetteDrafted professional emails for extension requests and internship inquiries, adhering to professional tone and structure. Also, created a comprehensive Social Media Do's and Don'ts checklist for college students.Location: task-4-email-etiquette/ Module 5: Cybersecurity & Digital SafetyResearched a detailed case study on [Insert Your Choice, e.g., Phishing or Ransomware] and created a 'Stay Safe Online' prevention checklist. This module aligns with my specialization in Cybersecurity and Digital Forensics.Location: task-5-cybercrime/ DeliverablesFinal Report: report/Project_Report.pdf (Includes full reflections for all tasks) Task Folders: All tasks are organized as per the repository structure requirements.
+Digital Literacy Project – CSE0001
+*** Student Details
+Name: Mayank Jha
+Branch: CSE [CYBER SECURITY]
+Year: 1st Year
+Course Code: CSE0001
+Course Title: Digital Literacy
+University: VIT Bhopal
+
+** Project Overview
+
+This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. The project focuses on building essential digital skills including professional online presence, coding platforms, collaboration tools, email etiquette, and cyber safety.
+
+The goal of this project is to develop responsible and effective digital practices for academic and professional use.
+
+** Repository Structure
+digital-literacy-project/
+│
+├── README.md
+├── report/
+│   └── Project_Report.pdf
+│
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+└── task-5-cybercrime/
+*** Task 1 – Digital Literacy Awareness Infographic
+
+Created a digital literacy infographic using Canva explaining:
+
+What is digital literacy
+Safe internet practices
+Professional online presence
+Useful digital tools
+
+*** Task 2 – Student Digital Portfolio
+
+Created professional profiles on:
+
+GitHub
+LinkedIn
+HackerRank
+
+These platforms help in building professional identity and showcasing skills.
+
+***Task 3 – Coding & Collaboration Platforms
+Completed beginner challenge on HackerRank
+Created Digital Literacy Quiz using Google Forms
+Learned collaboration using Google Workspace
+
+*** Task 4 – Professional Email & Etiquette
+Email to professor requesting extension
+Email for internship inquiry
+Social media do's and don'ts checklist
+*** Task 5 – Cybercrime Awareness
+
+Created case study on:
+
+Phishing / UPI Fraud (choose yours)
+
+Also added:
+
+Prevention checklist
+Cyber safety tips
+Reporting info (1930 helpline)
+
+*** Learning Outcomes
+
+Through this project, I learned:
+
+Building professional digital presence
+Responsible online communication
+Cyber security awareness
+Collaboration using digital tools
+GitHub repository management
+
+*** Tools Used
+Canva
+GitHub
+LinkedIn
+HackerRank
+Google Forms
+
+*** Submission
+This repository is submitted as part of CSE0001 Digital Literacy Project.
