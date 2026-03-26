@@ -1,0 +1,16 @@
+# Stay Safe Online – Cybercrime Prevention Checklist
+
+* Never share your UPI PIN with anyone
+* Do not approve unknown payment requests
+* Remember: entering PIN always sends money
+* Avoid clicking suspicious payment links
+* Verify unknown callers claiming to be bank officials
+* Enable app lock on payment applications
+* Use official apps only from Play Store/App Store
+* Check receiver name before sending money
+* Do not scan unknown QR codes for payments
+* Report fraud immediately to cybercrime portal
+
+Report Cybercrime:
+Website: https://cybercrime.gov.in
+Helpline: 1930
